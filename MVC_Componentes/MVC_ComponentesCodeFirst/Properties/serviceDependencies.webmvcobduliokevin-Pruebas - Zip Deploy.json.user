@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-09-18T09:24:03.6611377Z"
+    }
+  },
+  "parameters": {
+    "Pruebas.resourceGroupLocation": {
+      "Name": "Pruebas.resourceGroupLocation",
+      "Type": null,
+      "Value": "uksouth"
+    },
+    "Pruebas.subscriptionId": {
+      "Name": "Pruebas.subscriptionId",
+      "Type": "subscription",
+      "Value": "e20154b8-1c45-4903-a87d-659697f3ede7"
+    },
+    "Pruebas.resourceName": {
+      "Name": "Pruebas.resourceName",
+      "Type": null,
+      "Value": "Pruebas"
+    },
+    "Pruebas.resourceGroupName": {
+      "Name": "Pruebas.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "20230914"
+    }
+  }
+}

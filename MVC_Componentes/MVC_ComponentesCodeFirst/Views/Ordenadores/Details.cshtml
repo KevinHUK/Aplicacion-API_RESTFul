@@ -1,0 +1,59 @@
+﻿@using Microsoft.EntityFrameworkCore.Query.SqlExpressions
+@using Humanizer
+@model MVC_ComponentesCodeFirst.Models.ViewModels.ComponentesEnOrdenadoresViewModel
+
+@{
+	ViewData["Title"] = "Details";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+
+<div>
+    <h4>Ordenador</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+	        @Html.DisplayNameFor(model => model.Ordenador!.Propietario)
+        </dt>
+        <dd class = "col-sm-10">
+	        @Html.DisplayFor(model => model.Ordenador!.Propietario)
+        </dd>
+        <dt class = "col-sm-2">
+				@Html.DisplayNameFor(model => model.ComponentesAgregados)
+        </dt>
+	    <dd class="col-sm-10">
+		    @await Component.InvokeAsync("ComponentesListados", new {Id = Model.Ordenador!.Id})
+
+	    </dd>
+	    <dt class = "col-sm-2">
+		    @Html.DisplayNameFor(model => model.Ordenador!.Precio)
+	    </dt>
+	    <dd class = "col-sm-10">
+		    @Html.DisplayFor(model => model.Ordenador!.Precio)
+	    </dd>
+	    <dt class = "col-sm-2">
+		    @Html.DisplayNameFor(model => model.Ordenador!.CalorTotal)
+	    </dt>
+	    <dd class = "col-sm-10">
+		    @Html.DisplayFor(model => model.Ordenador!.CalorTotal)
+	    </dd>
+	    <dt>
+		    @Html.DisplayNameFor(model => model.Ordenador!.PedidoId)
+	    </dt>
+	    <dd class = "col-sm-10">
+		    @Html.DisplayFor(model => model.Ordenador!.PedidoId)
+	    </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+</body>
+</html>

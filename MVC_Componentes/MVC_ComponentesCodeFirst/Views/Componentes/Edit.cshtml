@@ -1,0 +1,100 @@
+﻿@using MVC_ComponentesCodeFirst.App_Data
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model MVC_ComponentesCodeFirst.Models.Componente
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Editar componente</title>
+    
+</head>
+<body>
+    <div class="container mt-5">
+        <h4>Editar <select asp-for="Categoria" class="form-control" asp-items="Html.GetEnumSelectList<CategoriasComponentes>()">
+	        <option selected="selected" value=""></option>
+        </select></h4>
+        <hr />
+
+        <div class="row">
+            <div class="col-md-6">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="Id" />
+
+                    <div class="form-group">
+                        <label asp-for="Categoria" class="control-label">Categoria</label>
+                        <select asp-for="Categoria" class="form-control" asp-items="Html.GetEnumSelectList<CategoriasComponentes>()">
+                            <option selected="selected" value=""></option>
+                        </select>
+                        <span asp-validation-for="Categoria" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="NumeroDeSerie" class="control-label">Número de Serie</label>
+                        <input asp-for="NumeroDeSerie" class="form-control" />
+                        <span asp-validation-for="NumeroDeSerie" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Precio" class="control-label">Precio</label>
+                        <input asp-for="Precio" class="form-control" />
+                        <span asp-validation-for="Precio" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Descripcion" class="control-label">Descripción</label>
+                        <textarea asp-for="Descripcion" class="form-control"></textarea>
+                        <span asp-validation-for="Descripcion" class="text-danger"></span>
+                    </div>
+                </form>
+            </div>
+
+            <div class="col-md-6">
+                <form asp-action="Edit">
+                    <div class="form-group">
+                        <label asp-for="Cores" class="control-label">Cores</label>
+                        <input asp-for="Cores" class="form-control" />
+                        <span asp-validation-for="Cores" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Grados" class="control-label">Grados</label>
+                        <input asp-for="Grados" class="form-control" />
+                        <span asp-validation-for="Grados" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Megas" class="control-label">Megas</label>
+                        <input asp-for="Megas" class="form-control" />
+                        <span asp-validation-for="Megas" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="OrdenadorId" class="control-label">Ordenador ID</label>
+                        <input asp-for="OrdenadorId" class="form-control" />
+                        <span asp-validation-for="OrdenadorId" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group text-center">
+                        <input type="submit" value="Guardar" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div class="row mt-3">
+	        <div class="col-md-12">
+		        <a asp-action="Index" class="btn btn-secondary">Volver a los componentes</a>
+	        </div>
+        </div>
+    </div>
+
+    
+</body>
+</html>

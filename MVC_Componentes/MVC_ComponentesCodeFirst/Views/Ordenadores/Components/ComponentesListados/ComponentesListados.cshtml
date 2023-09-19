@@ -1,0 +1,74 @@
+﻿@model System.Collections.Generic.ICollection<MVC_ComponentesCodeFirst.Models.Componente>?
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model)
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+		@foreach (var componente in Model!)
+		{
+        <tr>
+            <td>
+					<dl class="row">
+                        <dt class="col-sm-2">
+                            <p><b>Numero de serie: </b></p>
+                        </dt>
+                        <dd class="col-sm-10">
+                                <p>@componente.NumeroDeSerie</p>
+                        </dd>
+                        <dt class="col-sm-2 ">
+                            <p><b>Categoria: </b></p>
+                        </dt>
+                        <dd class="col-sm-10">
+                                <p>@componente.Categoria</p>
+                        </dd>
+                            @if (@componente.Cores != 0)
+                        {
+                            <dt class="col-sm-2">
+                                <p><b>Núcleos: </b></p>
+                            </dt>
+                            <dd class="col-sm-10">
+                                    <p>@componente.Cores</p>
+                            </dd>
+                        }
+                            @if (@componente.Megas != 0)
+                        {
+                            <dt class="col-sm-2">
+                                <p><b>Almacenamiento: </b></p>
+                            </dt>
+                            <dd class="col-sm-10 ">
+                                    <p>@componente.Megas Mb</p>
+                            </dd>
+                        }
+                        <dt class="col-sm-2">
+                            <p><b>Temperatura: </b></p>
+                        </dt>
+                        <dd class="col-sm-10">
+                                <p>@componente.Grados Cº</p>
+                        </dd>
+                        <dt class="col-sm-2">
+                            <p><b>Descripción: </b></p>
+                        </dt>
+                        <dd class="col-sm-10">
+                                <p>@componente.Descripcion</p>
+                        </dd>
+                        <dt class="col-sm-2">
+                            <p><b>Precio: </b></p>
+                        </dt>
+                        <dd class="col-sm-10">
+                                <p>@componente.Precio €</p>
+                        </dd>
+                    </dl>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+

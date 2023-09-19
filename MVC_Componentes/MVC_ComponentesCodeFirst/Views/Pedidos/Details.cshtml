@@ -1,0 +1,113 @@
+﻿@using Microsoft.AspNetCore.Mvc.ModelBinding.Metadata
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using Humanizer
+@using MVC_ComponentesCodeFirst.App_Data
+@model MVC_ComponentesCodeFirst.Models.Pedido
+
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+
+<div>
+    <h4>Pedido</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Temperatura)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Temperatura)
+        </dd>
+	    <dt class = "col-sm-2">
+		    @Html.DisplayNameFor(model => model.Ordenadores)
+	    </dt>
+	    <dd class="col-sm-10 ">
+
+		    @foreach (var ordenador in Model.Ordenadores!)
+		    {
+			    <dl class="row">
+				    <dt class="col-sm-2">
+					    <p><b>Propietario: </b></p>
+				    </dt>
+				    <dd class="col-sm-10">
+							<p>@ordenador.Propietario</p>
+				    </dd>
+				    <dt class="col-sm-2">
+					    <p><b>Componentes </b></p>
+					    
+				    </dt>
+				    <dd class="col-sm-10 d-flex  ">
+						@foreach (var componentes in ordenador.Componentes!)
+						{
+
+							@if (componentes.Categoria == CategoriasComponentes.Procesador)
+								{
+									<p><strong>Procesador:</strong></p>
+									<nbsp>@Html.DisplayFor(item=>componentes.Descripcion)</nbsp>
+																						 <br/>
+								}
+							@if (componentes.Categoria == CategoriasComponentes.Memorizador)
+							{
+									<p ><strong>Memorizador:</strong></p>
+								<nbsp>@Html.DisplayFor(item=>componentes.Descripcion)</nbsp>
+								<br />
+							}
+							@if (componentes.Categoria == CategoriasComponentes.Almacenador)
+							{
+									<p><strong>Almacenador:</strong></p>
+									<nbsp>@Html.DisplayFor(item=>componentes.Descripcion)</nbsp> 
+								<br />
+							}
+								
+							
+
+						}
+				    </dd>
+
+				    <dt class="col-sm-2">
+					    <p><b>Temperatura: </b></p>
+				    </dt>
+				    <dd class="col-sm-10">
+							<p>@ordenador.CalorTotal Cº</p>
+				    </dd>
+
+				    <dt class="col-sm-2">
+					    <p><b>Precio: </b></p>
+				    </dt>
+				    <dd class="col-sm-10">
+							<p>@ordenador.Precio €</p>
+				    </dd>
+			    </dl>
+		    }
+
+	    </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+</body>
+</html>

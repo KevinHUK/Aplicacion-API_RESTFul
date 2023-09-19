@@ -1,0 +1,140 @@
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.exe
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.deps.json
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.runtimeconfig.json
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\refint\TiendaOrdenadores.dll
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.genruntimeconfig.cache
+C:\Users\Kevin\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\ref\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.exe
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.deps.json
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.runtimeconfig.json
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.AssemblyReference.cache
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfoInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfo.cs
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.CoreCompileInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\refint\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.genruntimeconfig.cache
+C:\Users\klein\source\repos\TiendaOrdenadores\TiendaOrdenadores\obj\Debug\net6.0\ref\TiendaOrdenadores.dll
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoB-KevinKlein\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.AssemblyReference.cache
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoB-KevinKlein\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoB-KevinKlein\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfoInputs.cache
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoB-KevinKlein\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfo.cs
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoB-KevinKlein\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.CoreCompileInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.exe
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.deps.json
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.runtimeconfig.json
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.AssemblyReference.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfoInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfo.cs
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.CoreCompileInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\refint\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.genruntimeconfig.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\ref\TiendaOrdenadores.dll
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.exe
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.deps.json
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.runtimeconfig.json
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.AssemblyReference.cache
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfoInputs.cache
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfo.cs
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.CoreCompileInputs.cache
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\refint\TiendaOrdenadores.dll
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.genruntimeconfig.cache
+C:\Users\alumno1\source\repos\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\ref\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.AssemblyReference.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfoInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfo.cs
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.CoreCompileInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\refint\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.exe
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.deps.json
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.runtimeconfig.json
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.genruntimeconfig.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoC-\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\ref\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.exe
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.deps.json
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.runtimeconfig.json
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.AssemblyReference.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfoInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfo.cs
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.CoreCompileInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\refint\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.genruntimeconfig.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores_ApartadoC\TiendaOrdenadores\obj\Debug\net6.0\ref\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.exe
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.deps.json
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.runtimeconfig.json
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.AssemblyReference.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfoInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfo.cs
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.CoreCompileInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\obj\Debug\net6.0\refint\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.genruntimeconfig.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoDA\TiendaOrdenadores\obj\Debug\net6.0\ref\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.exe
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.deps.json
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.runtimeconfig.json
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.AssemblyReference.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfoInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfo.cs
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.CoreCompileInputs.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\obj\Debug\net6.0\refint\TiendaOrdenadores.dll
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.pdb
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.genruntimeconfig.cache
+C:\Users\klein\source\repos\TiendaOrdenadores_ApartadoD\TiendaOrdenadores\obj\Debug\net6.0\ref\TiendaOrdenadores.dll
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.exe
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.deps.json
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.runtimeconfig.json
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.dll
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\bin\Debug\net6.0\TiendaOrdenadores.pdb
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.AssemblyReference.cache
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfoInputs.cache
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.AssemblyInfo.cs
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.csproj.CoreCompileInputs.cache
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.dll
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\obj\Debug\net6.0\refint\TiendaOrdenadores.dll
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.pdb
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\obj\Debug\net6.0\TiendaOrdenadores.genruntimeconfig.cache
+C:\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadores\obj\Debug\net6.0\ref\TiendaOrdenadores.dll

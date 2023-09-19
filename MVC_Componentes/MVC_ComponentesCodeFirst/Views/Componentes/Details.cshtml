@@ -1,0 +1,85 @@
+﻿@model MVC_ComponentesCodeFirst.Models.Componente
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+
+
+<div class="container mt-5">
+	
+	    
+	<div class="card" style="width: 18rem;">
+		<div class="card-body">
+			<h5 class="card-title">
+
+					@Html.DisplayFor(model => model.Categoria)
+
+			</h5>
+			<h6 class="card-subtitle mb-2 text-muted">@Html.DisplayFor(model => model.Descripcion)</h6>
+
+
+			<p class="card-text">
+
+				<dt>
+					@Html.DisplayNameFor(model => model.NumeroDeSerie)
+				</dt>
+				<dd>
+					@Html.DisplayFor(model => model.NumeroDeSerie)
+				</dd>
+				<dt>
+						@Html.DisplayNameFor(model => model.Precio)
+				</dt>
+				<dd>
+						@Html.DisplayFor(model => model.Precio)
+				</dd>
+				<dt>
+						@Html.DisplayNameFor(model => model.Descripcion)
+				</dt>
+				<dd>
+						@Html.DisplayFor(model => model.Descripcion)
+				</dd>
+				<dt>
+						@Html.DisplayNameFor(model => model.Cores)
+				</dt>
+				<dd >
+						@Html.DisplayFor(model => model.Cores)
+				</dd>
+				<dt>
+						@Html.DisplayNameFor(model => model.Grados)
+				</dt>
+				<dd >
+						@Html.DisplayFor(model => model.Grados)
+				</dd>
+				<dt >
+						@Html.DisplayNameFor(model => model.Megas)
+				</dt>
+				<dd>
+						@Html.DisplayFor(model => model.Megas)
+				</dd>
+				<dt>
+						@Html.DisplayNameFor(model => model.OrdenadorId)
+				</dt>
+				<dd>
+						@Html.DisplayFor(model => model.OrdenadorId)
+				</dd>
+
+			</p>
+				<a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary">Edit</a>
+				<a asp-action="Index" class="btn btn-secondary">Back to List</a>
+		</div>
+	</div>
+	
+
+</div>
+
+</body>
+</html>

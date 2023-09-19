@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Configurations>Debug;Release;Varios</Configurations>
+    <ApplicationInsightsResourceId>/subscriptions/e20154b8-1c45-4903-a87d-659697f3ede7/resourceGroups/20230914/providers/microsoft.insights/components/TiendaOrdenadoresWebApi</ApplicationInsightsResourceId>
+    <UserSecretsId>01a4c034-457c-4428-8d04-92bc06a73c77</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.16.1" />
+	  <PackageReference Include="Azure.Storage.Queues" Version="12.16.0" />
+	  <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
+	  <PackageReference Include="Microsoft.Azure.ServiceBus" Version="5.2.0" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.10" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.10" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.9" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+	  <PackageReference Include="NuGet.Build" Version="2.8.5" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,52 @@
+﻿@model IEnumerable<MVC_ComponentesCodeFirst.Models.Componente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="container mt-5">
+	    <div class="row">
+		    <div class="col-md-6">
+			    <h1>Listado de Componentes</h1>
+		    </div>
+		    <div class="col-md-6 text-right">
+			    <a href="@Url.Action("Create")" class="btn btn-success">Crear nuevo componente</a>
+		    </div>
+	    </div>
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Categoria</h5>
+                            <p class="card-text">Número de Serie: @item.NumeroDeSerie</p>
+                            <p class="card-text">Precio: @item.Precio</p>
+                            <p class="card-text">Descripción: @item.Descripcion</p>
+                            <p class="card-text">Cores: @item.Cores</p>
+                            <p class="card-text">Grados: @item.Grados</p>
+                            <p class="card-text">Megas: @item.Megas</p>
+                            <p class="card-text">Ordenador ID: @item.OrdenadorId</p>
+                        </div>
+                        <div class="card-footer">
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+
+</body>
+</html>
