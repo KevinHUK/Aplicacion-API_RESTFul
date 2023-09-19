@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6i5z3vQfT0SCmnx/NvnNLFTuBBVFwbZoGRsJbaIxonOTrlffwQ/ZSmsdjBNNh0I1ve1A7RMMAVbrYOK4xI56JA==",
+  "dgSpecHash": "QTjj9ZqhroCZG/p8FfZjI7qiizKX0cOdqO8TJwr8hPBimZGm9NAxslxnAgFlfJWGpfN/iwOExya/FWd8/Xshsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\klein\\source\\repos\\KevinKlein_MVCV - WEBAPI - Consola\\KevinKlein\\MVC_Componentes\\MVC_ComponentesCodeFirst.Tests\\MVC_ComponentesCodeFirst.Tests.csproj",
+  "projectFilePath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst.Tests\\MVC_ComponentesCodeFirst.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\klein\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\klein\\.nuget\\packages\\azure.core.amqp\\1.3.0\\azure.core.amqp.1.3.0.nupkg.sha512",

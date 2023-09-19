@@ -12390,11 +12390,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\klein\\source\\repos\\KevinKlein_MVCV - WEBAPI - Consola\\KevinKlein\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj",
       "projectName": "MVC_ComponentesCodeFirst",
-      "projectPath": "C:\\Users\\klein\\source\\repos\\KevinKlein_MVCV - WEBAPI - Consola\\KevinKlein\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj",
+      "projectPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj",
       "packagesPath": "C:\\Users\\klein\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klein\\source\\repos\\KevinKlein_MVCV - WEBAPI - Consola\\KevinKlein\\MVC_Componentes\\MVC_ComponentesCodeFirst\\obj\\",
+      "outputPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\klein\\AppData\\Roaming\\NuGet\\NuGet.Config",
