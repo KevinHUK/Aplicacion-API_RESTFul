@@ -12,6 +12,6 @@
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <Controller_SelectedScaffolderID>ApiControllerWithActionsScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Common/Api</Controller_SelectedScaffolderCategoryPath>
-    <NameOfLastUsedPublishProfile>C:\Users\klein\source\repos\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\TiendaOrdenadoresWebApi\Properties\PublishProfiles\TiendaOrdenadoresWebApi20230915115409 - Zip Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\klein\source\repos\Aplicacion-API_RESTFul\MVC_Componentes\TiendaOrdenadoresWebApi\Properties\PublishProfiles\TiendaOrdenadoresWebApi20230915115409 - Zip Deploy1.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

@@ -1,3 +1,4 @@
+using MVC_ComponentesCodeFirst.Models;
 using MVC_ComponentesCodeFirst.Services;
 using Polly;
 using Polly.Extensions.Http;
@@ -34,18 +35,17 @@ namespace MVC_ComponentesCodeFirst
            
 
             builder.Services.AddScoped<IPedidoRepositorio, EFRepositoryPedidos>();
+           
 
-
-   
-     
+          
             builder.Services
-                .AddHttpClient<IComponenteRepositorio, APIComponentesRepository>(o =>
+                .AddHttpClient<IRepositorio<Componente>,APIComponentesRepository>(o =>
                     o.BaseAddress = new Uri(_url + "/api/")).AddPolicyHandler(retryPolicy);
 
             builder.Services.AddHttpClient<IRepositorioOrdenador, APIOrdenadorRepository>(o =>
                 o.BaseAddress = new Uri(_url + "/api/")).AddPolicyHandler(retryPolicy);
 
-            builder.Services.AddHttpClient<IPedidoRepositorio, 
+            builder.Services.AddHttpClient<IPedidoRepositorio,
             APIPedidosRepository>(o =>
                 o.BaseAddress = new Uri(_url + "/api/")).AddPolicyHandler(retryPolicy);
 

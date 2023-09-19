@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 
 namespace MVC_ComponentesCodeFirst.Services;
 
-public class APIComponentesRepository : IComponenteRepositorio
+public class APIComponentesRepository : IRepositorio<Componente>
 {
 
     HttpClient _httpClient = null;
@@ -21,39 +21,66 @@ public class APIComponentesRepository : IComponenteRepositorio
     }
 
 
-    public List<Componente> All()
-    {
+    //public List<Componente> All()
+    //{
 
+    //    var callResponse = _httpClient.GetAsync(urlBase).Result;
+
+    //    var response = callResponse.Content.ReadAsStringAsync().Result;
+    //    var componentes = JsonConvert.DeserializeObject<List<Componente>>(response);
+    //    return componentes;
+
+    //}
+
+
+    //public Componente? GetById(int Id)
+    //{
+    //    var callResponse = _httpClient.GetAsync(urlBase + $"/{Id}").Result;
+
+    //    var response = callResponse.Content.ReadAsStringAsync().Result;
+    //    return JsonConvert.DeserializeObject<Componente>(response);
+    //}
+
+
+    //public  void Add(Componente componente)
+    //{
+    //    var uri = urlBase;
+    //    var myContent = JsonConvert.SerializeObject(componente);
+    //    var buffer = System.Text.Encoding.UTF8.GetBytes(myContent);
+    //    var byteContent = new ByteArrayContent(buffer);
+    //    byteContent.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+    //    var result = _httpClient.PostAsync(uri, byteContent).Result;
+    //    //ServiceBusClient client = new ServiceBusClient(_configuration["BusConnection"]);
+    //    //var sender = client.CreateSender(_configuration["QueueName"]);
+    //    //ServiceBusMessage message = new ServiceBusMessage($"Creando {componente.Categoria} {componente.NumeroDeSerie}");
+    //    //await sender.SendMessageAsync(message);
+    //}
+
+    public IEnumerable<Componente> GetAll()
+    {
         var callResponse = _httpClient.GetAsync(urlBase).Result;
 
         var response = callResponse.Content.ReadAsStringAsync().Result;
         var componentes = JsonConvert.DeserializeObject<List<Componente>>(response);
         return componentes;
-
     }
 
-
-    public Componente? GetById(int Id)
+    public Componente GetById(object id)
     {
-        var callResponse = _httpClient.GetAsync(urlBase + $"/{Id}").Result;
+        var callResponse = _httpClient.GetAsync(urlBase + $"/{id}").Result;
 
         var response = callResponse.Content.ReadAsStringAsync().Result;
         return JsonConvert.DeserializeObject<Componente>(response);
     }
 
-
-    public  void Add(Componente componente)
+    public void Insert(Componente obj)
     {
         var uri = urlBase;
-        var myContent = JsonConvert.SerializeObject(componente);
+        var myContent = JsonConvert.SerializeObject(obj);
         var buffer = System.Text.Encoding.UTF8.GetBytes(myContent);
         var byteContent = new ByteArrayContent(buffer);
         byteContent.Headers.ContentType = new MediaTypeHeaderValue("application/json");
         var result = _httpClient.PostAsync(uri, byteContent).Result;
-        //ServiceBusClient client = new ServiceBusClient(_configuration["BusConnection"]);
-        //var sender = client.CreateSender(_configuration["QueueName"]);
-        //ServiceBusMessage message = new ServiceBusMessage($"Creando {componente.Categoria} {componente.NumeroDeSerie}");
-        //await sender.SendMessageAsync(message);
     }
 
     public void Update(Componente componente, int id)
@@ -71,12 +98,15 @@ public class APIComponentesRepository : IComponenteRepositorio
         }
     }
 
-    public void Delete(int id)
+    public void Delete(object id)
     {
-
-
         var callResponse = _httpClient.DeleteAsync(urlBase + $"/{id}").Result;
-
-
     }
+
+    public void Save()
+    {
+        throw new NotImplementedException();
+    }
+
+
 }

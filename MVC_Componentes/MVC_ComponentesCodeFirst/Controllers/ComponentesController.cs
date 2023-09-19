@@ -8,17 +8,19 @@ namespace MVC_ComponentesCodeFirst.Controllers
     {
 
         
-        private readonly IComponenteRepositorio _repositorioComponente;
-
-        public ComponentesController(IComponenteRepositorio repositorioComponente)
+        private readonly IRepositorio<Componente> _repositorioComponente;
+  
+       
+        public ComponentesController(IRepositorio<Componente> repositorioComponente)
         {
             _repositorioComponente = repositorioComponente;
+
 
         }
         // GET: Componentes
         public ActionResult Index()
         {
-            return View("Index", _repositorioComponente.All());
+            return View("Index", _repositorioComponente.GetAll());
         }
 
         // GET: Componentes/Details/5
@@ -54,7 +56,7 @@ namespace MVC_ComponentesCodeFirst.Controllers
         {
             if (ModelState.IsValid)
             {
-                _repositorioComponente.Add(componente);
+                _repositorioComponente.Insert(componente);
 
                 return RedirectToAction(nameof(Index));
             }

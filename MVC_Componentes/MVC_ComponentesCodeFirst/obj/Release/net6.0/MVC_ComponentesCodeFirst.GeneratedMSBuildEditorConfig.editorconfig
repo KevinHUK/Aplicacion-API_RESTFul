@@ -9,97 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC_ComponentesCodeFirst
 build_property.RootNamespace = MVC_ComponentesCodeFirst
-build_property.ProjectDir = C:\Users\klein\source\repos\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\MVC_ComponentesCodeFirst\
+build_property.ProjectDir = C:\Users\klein\source\repos\Aplicacion-API_RESTFul\MVC_Componentes\MVC_ComponentesCodeFirst\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\klein\source\repos\KevinKlein_MVCV - WEBAPI - Consola\KevinKlein\MVC_Componentes\MVC_ComponentesCodeFirst
+build_property.MSBuildProjectDirectory = C:\Users\klein\source\repos\Aplicacion-API_RESTFul\MVC_Componentes\MVC_ComponentesCodeFirst
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Pages/Components/ComponentesListados/ComponentesListados.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Pages/Components/ComponentesListados/ComponentesListados.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xDb21wb25lbnRlc0xpc3RhZG9zXENvbXBvbmVudGVzTGlzdGFkb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Componentes/Create.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Componentes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Componentes/Delete.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Componentes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Componentes/Details.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Componentes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Componentes/Edit.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Componentes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Componentes/Index.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Componentes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Ordenadores/Components/ComponentesListados/ComponentesListados.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Ordenadores/Components/ComponentesListados/ComponentesListados.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5hZG9yZXNcQ29tcG9uZW50c1xDb21wb25lbnRlc0xpc3RhZG9zXENvbXBvbmVudGVzTGlzdGFkb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Ordenadores/Create.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Ordenadores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5hZG9yZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Ordenadores/Delete.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Ordenadores/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5hZG9yZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Ordenadores/Details.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Ordenadores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5hZG9yZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Ordenadores/Edit.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Ordenadores/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5hZG9yZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Ordenadores/Index.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Ordenadores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5hZG9yZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Pedidos/Create.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Pedidos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Pedidos/Delete.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Pedidos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Pedidos/Details.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Pedidos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Pedidos/Edit.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Pedidos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Pedidos/Index.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Pedidos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Shared/Error.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/_ViewImports.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/_ViewStart.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/klein/source/repos/KevinKlein_MVCV - WEBAPI - Consola/KevinKlein/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Shared/_Layout.cshtml]
+[C:/Users/klein/source/repos/Aplicacion-API_RESTFul/MVC_Componentes/MVC_ComponentesCodeFirst/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ybcv1l9fs9
