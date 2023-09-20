@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\WEBAPI_TiendaOrdenadoresTest\\WEBAPI_TiendaOrdenadoresTest.csproj": {}
+    "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\WEBAPI_TiendaOrdenadoresTest\\WEBAPI_TiendaOrdenadoresTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj": {
+    "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj",
         "projectName": "TiendaOrdenadoresWebApi",
-        "projectPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj",
+        "projectPath": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj",
         "packagesPath": "C:\\Users\\klein\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\obj\\",
+        "outputPath": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klein\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,14 +116,14 @@
         }
       }
     },
-    "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\WEBAPI_TiendaOrdenadoresTest\\WEBAPI_TiendaOrdenadoresTest.csproj": {
+    "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\WEBAPI_TiendaOrdenadoresTest\\WEBAPI_TiendaOrdenadoresTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\WEBAPI_TiendaOrdenadoresTest\\WEBAPI_TiendaOrdenadoresTest.csproj",
+        "projectUniqueName": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\WEBAPI_TiendaOrdenadoresTest\\WEBAPI_TiendaOrdenadoresTest.csproj",
         "projectName": "WEBAPI_TiendaOrdenadoresTest",
-        "projectPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\WEBAPI_TiendaOrdenadoresTest\\WEBAPI_TiendaOrdenadoresTest.csproj",
+        "projectPath": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\WEBAPI_TiendaOrdenadoresTest\\WEBAPI_TiendaOrdenadoresTest.csproj",
         "packagesPath": "C:\\Users\\klein\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\WEBAPI_TiendaOrdenadoresTest\\obj\\",
+        "outputPath": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\WEBAPI_TiendaOrdenadoresTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klein\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,8 +140,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj": {
-                "projectPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj"
+              "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj": {
+                "projectPath": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj"
               }
             }
           }

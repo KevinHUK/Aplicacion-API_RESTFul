@@ -1,9 +1,10 @@
 ﻿using MVC_ComponentesCodeFirst.App_Data;
 using MVC_ComponentesCodeFirst.Models;
+using Polly;
 
 namespace MVC_ComponentesCodeFirst.Services;
 
-public class FakeRepositorioComponentes : IComponenteRepositorio
+public class FakeRepositorioComponentes : IRepositorio<Componente>
 {
 
     private readonly List<Componente> componentes = new();
@@ -44,38 +45,57 @@ public class FakeRepositorioComponentes : IComponenteRepositorio
             Megas = 0
         });
     }
-    public List<Componente> All()
+
+
+    public IEnumerable<Componente> GetAll()
     {
         return componentes;
     }
 
-    public Componente? GetById(int Id)
+    public Componente GetById(object id)
     {
-       
+        var componenteEncontrado = componentes.FirstOrDefault(x => x.Id ==(int) id);
         
-	        var componenteEncontrado = componentes.FirstOrDefault(x=>x.Id == Id);
-	        return componenteEncontrado;
-        
-	}
+        return componenteEncontrado;
+    }
 
-    public void Add(Componente componente)
+    public void Insert(Componente obj)
     {
         var idNueva = componentes.Count;
-        componente.Id = idNueva;
-        componentes.Add(componente);
+        obj.Id = idNueva;
+        componentes.Add(obj);
     }
 
     public void Update(Componente componente, int id)
     {
-        throw new NotImplementedException();
+        var componenteActual = GetById(id);
+        if (componenteActual != null)
+        {
+            componente.Categoria = componenteActual.Categoria;
+            componente.Cores = componenteActual.Cores;
+            componente.Descripcion = componenteActual.Descripcion;
+            componente.Grados = componenteActual.Grados;
+            componente.OrdenadorId = componenteActual.OrdenadorId;
+            componente.NumeroDeSerie = componenteActual.NumeroDeSerie;
+            componente.Precio = componenteActual.Precio;
+            componente.Megas = componenteActual.Megas;
+        }
+        componentes.Add(componente);
+
     }
 
-
-
-    public void Delete(int id)
+    public void Delete(object id)
     {
-        componentes.RemoveAt(id);
+        componentes.RemoveAt((int)id);
     }
+
+    public void Save()
+    {
+        Save();
+    }
+
+
+   
 
 
 }

@@ -8,8 +8,8 @@ namespace MVC_ComponentesCodeFirst.Controllers
     public class OrdenadoresController : Controller
     {
         private readonly IRepositorioOrdenador _ordenadorRepositorio;
-        private readonly IComponenteRepositorio _componenteRepositorio;
-        public OrdenadoresController(IRepositorioOrdenador ordenadorRepositorio, IComponenteRepositorio componenteRepositorio)
+        private readonly IRepositorio<Componente> _componenteRepositorio;
+        public OrdenadoresController(IRepositorioOrdenador ordenadorRepositorio, IRepositorio<Componente> componenteRepositorio)
         {
             _ordenadorRepositorio = ordenadorRepositorio;
             _componenteRepositorio = componenteRepositorio;

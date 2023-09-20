@@ -13907,11 +13907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj",
       "projectName": "TiendaOrdenadoresWebApi",
-      "projectPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj",
+      "projectPath": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\TiendaOrdenadoresWebApi.csproj",
       "packagesPath": "C:\\Users\\klein\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\obj\\",
+      "outputPath": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\TiendaOrdenadoresWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\klein\\AppData\\Roaming\\NuGet\\NuGet.Config",

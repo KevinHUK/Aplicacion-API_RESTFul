@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst.Tests\\MVC_ComponentesCodeFirst.Tests.csproj": {}
+    "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst.Tests\\MVC_ComponentesCodeFirst.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst.Tests\\MVC_ComponentesCodeFirst.Tests.csproj": {
+    "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst.Tests\\MVC_ComponentesCodeFirst.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst.Tests\\MVC_ComponentesCodeFirst.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst.Tests\\MVC_ComponentesCodeFirst.Tests.csproj",
         "projectName": "MVC_ComponentesCodeFirst.Tests",
-        "projectPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst.Tests\\MVC_ComponentesCodeFirst.Tests.csproj",
+        "projectPath": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst.Tests\\MVC_ComponentesCodeFirst.Tests.csproj",
         "packagesPath": "C:\\Users\\klein\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst.Tests\\obj\\",
+        "outputPath": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klein\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj": {
-                "projectPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj"
+              "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj": {
+                "projectPath": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj": {
+    "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj",
+        "projectUniqueName": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj",
         "projectName": "MVC_ComponentesCodeFirst",
-        "projectPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj",
+        "projectPath": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\MVC_ComponentesCodeFirst.csproj",
         "packagesPath": "C:\\Users\\klein\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klein\\source\\repos\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\obj\\",
+        "outputPath": "C:\\Users\\klein\\Aplicacion-API_RESTFul\\MVC_Componentes\\MVC_ComponentesCodeFirst\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klein\\AppData\\Roaming\\NuGet\\NuGet.Config",
